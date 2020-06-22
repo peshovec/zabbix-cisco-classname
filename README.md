@@ -41,6 +41,9 @@ almost finaly, the index for qos interface (.114) and voice (.3463889)
 
 and finaly query specific qos.interface.index qos.counter.index...
     (e.g. cbQosCMPostPolicyByte64.114.8257777)
+ in this table, the portion ".114" refers to the interface (as descibred above how to dig to the human name of the interface)
+ and the portion ".825777" os the counter for the policy with number 3463889 (again described above how to dig to the human name via some tables)
+ 
 ----------
 
 
